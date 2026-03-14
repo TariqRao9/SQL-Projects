@@ -29,7 +29,9 @@ Relational Databases
 ## Basic SQL Queries
 
 SELECT
+
 WHERE
+
 ORDER BY
 LIMIT
 Filtering & Conditions
