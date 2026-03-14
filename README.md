@@ -97,7 +97,3 @@ This repository is created to improve SQL proficiency and demonstrate practical 
 # Author
 
 ## Muhammad Tariq
-
-⭐ Contribution
-
-Contributions, improvements, and suggestions are welcome.
