@@ -33,36 +33,63 @@ SELECT
 WHERE
 
 ORDER BY
+
 LIMIT
+
 Filtering & Conditions
+
 AND / OR
+
 BETWEEN
+
 LIKE
+
 IN
+
 ## Aggregate Functions
 
 COUNT()
+
 SUM()
+
 AVG()
+
 MAX()
+
 MIN()
+
 Grouping Data
+
 GROUP BY
+
 HAVING
+
 Joins
+
 INNER JOIN
+
 LEFT JOIN
+
 RIGHT JOIN
+
 SELF JOIN
+
 ## Advanced SQL
 
 Window Functions
+
 CTE (Common Table Expressions)
+
 Subqueries
+
 Temporary Tables
+
 Data Cleaning
+
 Removing duplicates
+
 Handling NULL values
+
 Data formatting
 
 This repository is created to improve SQL proficiency and demonstrate practical SQL usage in data analytics. It can serve as a reference for beginners who want to learn SQL for data analysis and database querying.
