@@ -98,5 +98,4 @@ Data Aggregation and Business Insights
 
 ### Conclusion
 
-This project demonstrates how SQL can be used to perform efficient exploratory data analysis on e-commerce datasets. The queries help uncover important insights about sales trends, product performance, and regional revenue distribution
 This project demonstrates how SQL can be used to perform efficient exploratory data analysis on e-commerce datasets. The queries help uncover important insights about sales trends, product performance, and regional revenue distribution.
