@@ -1,5 +1,5 @@
 
-# EDA on Amazon sales dataset
+## EDA on Amazon sales dataset
 
 select*
 from amazon_sales_data
