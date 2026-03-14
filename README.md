@@ -24,9 +24,9 @@ MySQL
 
 Relational Databases
 
-### Topics Covered
+## Topics Covered
 
-## Basic SQL Queries
+### Basic SQL Queries
 
 SELECT
 
