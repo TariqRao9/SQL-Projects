@@ -38,6 +38,3 @@ The dataset represents retail sales data including customer details, product cat
 ## 🚀 Purpose
 This project demonstrates practical SQL skills for data analysis, including querying, aggregation, ranking, and business insight generation.
 
----
-
-⭐ If you found this project useful, feel free to give it a star!
