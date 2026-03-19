@@ -28,6 +28,13 @@ product_name → Name of the product.
 sales → Total sales value for the order line.
 
 quantity → Number of units purchased.
+
+## Data source
+Source : https://www.kaggle.com/datasets/thuandao/superstore-sales-analytics
+Platform : Kaggle
+Dataset Name : SuperStore Sales Analytics
+Author : Đào Minh Thuấn
+Format : CSV
 discount → Discount applied to the order.
 profit → Profit or loss generated from the transaction.
 shipping_cost → Cost incurred to ship the order.
